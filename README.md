@@ -1,4 +1,4 @@
-<p align="center"> ## Hi there, welcome to my GitHub profile overview 👋 </p>
+## <p align="center"> Hi there, welcome to my GitHub profile overview 👋 </p>
 
 <!--
 **JJ07-ops/JJ07-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
