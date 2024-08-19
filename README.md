@@ -1,8 +1,8 @@
 ## <p align="center"> Hi there! Welcome to my GitHub profile overview 👋 </p>
 ### <p align="center"> An EE student at Taylor's University aspiring to be a design verification engineer. </p>
 
-* 🌱 I’m currently learning System Verilog on Udemy.
-* 🔭 I’m planning on learning UVM and brushing up my Python skills along with Excel in the future.
+* 🌱 I’m currently learning System Verilog and UVM on Udemy.
+* 🔭 I’m planning on brushing up my Python skills along with Excel in the future.
 * 📫 How to reach me: sim.jiajun04@sd.taylors.edu.my
 * ⚡ Fun fact: I love to code!
 
