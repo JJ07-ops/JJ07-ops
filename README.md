@@ -3,7 +3,7 @@
 
 * 🌱 I’m currently learning System Verilog and UVM on Udemy.
 * 🔭 I’m planning on brushing up my Python skills along with Excel in the future.
-* 📫 How to reach me: sim.jiajun04@sd.taylors.edu.my
+* 📫 How to reach me: jiajun04@gmail.com
 * ⚡ Fun fact: I love to code!
 
   <h3 align="left">Connect with me:</h3>
